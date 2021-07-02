@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jasonlee/iCloud Drive/Documents/Further Studing/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApplication.Exp/AuthApplication.Exp.csproj": {}
+  },
+  "projects": {
+    "/Users/jasonlee/iCloud Drive/Documents/Further Studing/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApplication.Exp/AuthApplication.Exp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jasonlee/iCloud Drive/Documents/Further Studing/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApplication.Exp/AuthApplication.Exp.csproj",
+        "projectName": "AuthApplication.Exp",
+        "projectPath": "/Users/jasonlee/iCloud Drive/Documents/Further Studing/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApplication.Exp/AuthApplication.Exp.csproj",
+        "packagesPath": "/Users/jasonlee/.nuget/packages/",
+        "outputPath": "/Users/jasonlee/iCloud Drive/Documents/Further Studing/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApplication.Exp/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jasonlee/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jasonlee/Documents/Working/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApplication.Exp/AuthApp.Application.Exp.csproj": {}
+  },
+  "projects": {
+    "/Users/jasonlee/Documents/Working/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApp.Infra.Exp/AuthApp.Infra.Exp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jasonlee/Documents/Working/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApp.Infra.Exp/AuthApp.Infra.Exp.csproj",
+        "projectName": "AuthApp.Infra.Exp",
+        "projectPath": "/Users/jasonlee/Documents/Working/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApp.Infra.Exp/AuthApp.Infra.Exp.csproj",
+        "packagesPath": "/Users/jasonlee/.nuget/packages/",
+        "outputPath": "/Users/jasonlee/Documents/Working/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApp.Infra.Exp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jasonlee/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/jasonlee/Documents/Working/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApplicationCore.Exp/AuthApp.Core.Exp.csproj": {
+                "projectPath": "/Users/jasonlee/Documents/Working/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApplicationCore.Exp/AuthApp.Core.Exp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jasonlee/Documents/Working/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApplication.Exp/AuthApp.Application.Exp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jasonlee/Documents/Working/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApplication.Exp/AuthApp.Application.Exp.csproj",
+        "projectName": "AuthApp.Application.Exp",
+        "projectPath": "/Users/jasonlee/Documents/Working/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApplication.Exp/AuthApp.Application.Exp.csproj",
+        "packagesPath": "/Users/jasonlee/.nuget/packages/",
+        "outputPath": "/Users/jasonlee/Documents/Working/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApplication.Exp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jasonlee/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/jasonlee/Documents/Working/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApp.Infra.Exp/AuthApp.Infra.Exp.csproj": {
+                "projectPath": "/Users/jasonlee/Documents/Working/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApp.Infra.Exp/AuthApp.Infra.Exp.csproj"
+              },
+              "/Users/jasonlee/Documents/Working/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApplicationCore.Exp/AuthApp.Core.Exp.csproj": {
+                "projectPath": "/Users/jasonlee/Documents/Working/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApplicationCore.Exp/AuthApp.Core.Exp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Auth0.AuthenticationApi": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Auth0.ManagementApi": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jasonlee/Documents/Working/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApplicationCore.Exp/AuthApp.Core.Exp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jasonlee/Documents/Working/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApplicationCore.Exp/AuthApp.Core.Exp.csproj",
+        "projectName": "AuthApp.Core.Exp",
+        "projectPath": "/Users/jasonlee/Documents/Working/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApplicationCore.Exp/AuthApp.Core.Exp.csproj",
+        "packagesPath": "/Users/jasonlee/.nuget/packages/",
+        "outputPath": "/Users/jasonlee/Documents/Working/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApplicationCore.Exp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jasonlee/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

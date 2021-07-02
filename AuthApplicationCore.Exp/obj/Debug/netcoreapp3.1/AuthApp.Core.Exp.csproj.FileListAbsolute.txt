@@ -1,0 +1,9 @@
+/Users/jasonlee/iCloud Drive/Documents/Further Studing/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApplicationCore.Exp/bin/Debug/netcoreapp3.1/AuthApp.Core.Exp.deps.json
+/Users/jasonlee/iCloud Drive/Documents/Further Studing/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApplicationCore.Exp/bin/Debug/netcoreapp3.1/AuthApp.Core.Exp.dll
+/Users/jasonlee/iCloud Drive/Documents/Further Studing/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApplicationCore.Exp/bin/Debug/netcoreapp3.1/AuthApp.Core.Exp.pdb
+/Users/jasonlee/iCloud Drive/Documents/Further Studing/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApplicationCore.Exp/obj/Debug/netcoreapp3.1/AuthApp.Core.Exp.csprojAssemblyReference.cache
+/Users/jasonlee/iCloud Drive/Documents/Further Studing/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApplicationCore.Exp/obj/Debug/netcoreapp3.1/AuthApp.Core.Exp.AssemblyInfoInputs.cache
+/Users/jasonlee/iCloud Drive/Documents/Further Studing/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApplicationCore.Exp/obj/Debug/netcoreapp3.1/AuthApp.Core.Exp.AssemblyInfo.cs
+/Users/jasonlee/iCloud Drive/Documents/Further Studing/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApplicationCore.Exp/obj/Debug/netcoreapp3.1/AuthApp.Core.Exp.csproj.CoreCompileInputs.cache
+/Users/jasonlee/iCloud Drive/Documents/Further Studing/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApplicationCore.Exp/obj/Debug/netcoreapp3.1/AuthApp.Core.Exp.dll
+/Users/jasonlee/iCloud Drive/Documents/Further Studing/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApplicationCore.Exp/obj/Debug/netcoreapp3.1/AuthApp.Core.Exp.pdb

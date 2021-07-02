@@ -1,0 +1,15 @@
+/Users/jasonlee/iCloud Drive/Documents/Further Studing/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApp.Infra.Exp/bin/Debug/netcoreapp3.1/AuthApp.Infra.Exp.deps.json
+/Users/jasonlee/iCloud Drive/Documents/Further Studing/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApp.Infra.Exp/bin/Debug/netcoreapp3.1/AuthApp.Infra.Exp.runtimeconfig.json
+/Users/jasonlee/iCloud Drive/Documents/Further Studing/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApp.Infra.Exp/bin/Debug/netcoreapp3.1/AuthApp.Infra.Exp.runtimeconfig.dev.json
+/Users/jasonlee/iCloud Drive/Documents/Further Studing/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApp.Infra.Exp/bin/Debug/netcoreapp3.1/AuthApp.Infra.Exp.dll
+/Users/jasonlee/iCloud Drive/Documents/Further Studing/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApp.Infra.Exp/bin/Debug/netcoreapp3.1/AuthApp.Infra.Exp.pdb
+/Users/jasonlee/iCloud Drive/Documents/Further Studing/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApp.Infra.Exp/bin/Debug/netcoreapp3.1/AuthApp.Core.Exp.dll
+/Users/jasonlee/iCloud Drive/Documents/Further Studing/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApp.Infra.Exp/bin/Debug/netcoreapp3.1/AuthApp.Core.Exp.pdb
+/Users/jasonlee/iCloud Drive/Documents/Further Studing/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApp.Infra.Exp/obj/Debug/netcoreapp3.1/AuthApp.Infra.Exp.csprojAssemblyReference.cache
+/Users/jasonlee/iCloud Drive/Documents/Further Studing/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApp.Infra.Exp/obj/Debug/netcoreapp3.1/AuthApp.Infra.Exp.AssemblyInfoInputs.cache
+/Users/jasonlee/iCloud Drive/Documents/Further Studing/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApp.Infra.Exp/obj/Debug/netcoreapp3.1/AuthApp.Infra.Exp.AssemblyInfo.cs
+/Users/jasonlee/iCloud Drive/Documents/Further Studing/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApp.Infra.Exp/obj/Debug/netcoreapp3.1/AuthApp.Infra.Exp.csproj.CoreCompileInputs.cache
+/Users/jasonlee/iCloud Drive/Documents/Further Studing/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApp.Infra.Exp/obj/Debug/netcoreapp3.1/AuthApp.Infra.Exp.csproj.CopyComplete
+/Users/jasonlee/iCloud Drive/Documents/Further Studing/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApp.Infra.Exp/obj/Debug/netcoreapp3.1/AuthApp.Infra.Exp.dll
+/Users/jasonlee/iCloud Drive/Documents/Further Studing/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApp.Infra.Exp/obj/Debug/netcoreapp3.1/AuthApp.Infra.Exp.pdb
+/Users/jasonlee/iCloud Drive/Documents/Further Studing/Internship in Bondi Labs/ASP.NET CORE project/auth0-config-test/AuthApp.Infra.Exp/obj/Debug/netcoreapp3.1/AuthApp.Infra.Exp.genruntimeconfig.cache

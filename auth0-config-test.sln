@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthApp.Application.Exp", "AuthApplication.Exp\AuthApp.Application.Exp.csproj", "{AEC80D34-FDE0-4F3F-9590-5FB4CD09B918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthApp.Core.Exp", "AuthApplicationCore.Exp\AuthApp.Core.Exp.csproj", "{5D3DC984-7DE7-4977-BB62-342576E79A2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthApp.Infra.Exp", "AuthApp.Infra.Exp\AuthApp.Infra.Exp.csproj", "{42C79105-0B25-4C63-A3DB-D2662C00CA61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEC80D34-FDE0-4F3F-9590-5FB4CD09B918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC80D34-FDE0-4F3F-9590-5FB4CD09B918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC80D34-FDE0-4F3F-9590-5FB4CD09B918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC80D34-FDE0-4F3F-9590-5FB4CD09B918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D3DC984-7DE7-4977-BB62-342576E79A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D3DC984-7DE7-4977-BB62-342576E79A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D3DC984-7DE7-4977-BB62-342576E79A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D3DC984-7DE7-4977-BB62-342576E79A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42C79105-0B25-4C63-A3DB-D2662C00CA61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C79105-0B25-4C63-A3DB-D2662C00CA61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C79105-0B25-4C63-A3DB-D2662C00CA61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C79105-0B25-4C63-A3DB-D2662C00CA61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

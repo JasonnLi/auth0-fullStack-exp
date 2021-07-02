@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{AEC80D34-FDE0-4F3F-9590-5FB4CD09B918}|Default">
+  <MonoDevelop.Ide.ItemProperties.AuthApp.Application.Exp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AuthApplication.Exp/Properties/launchSettings.json">
+    <Files>
+      <File FileName="AuthApp.Infra.Exp/Data/AuthAppContext.cs" Line="366" Column="10" />
+      <File FileName="AuthApplication.Exp/Services/Auth0MachineTokenFactory.cs" Line="22" Column="6" />
+      <File FileName="AuthApplication.Exp/Services/ManagementTokenFactory.cs" />
+      <File FileName="AuthApplication.Exp/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="AuthApplication.Exp/Properties/launchSettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="auth0-config-test" expanded="True">
+            <Node name="AuthApp.Application.Exp" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

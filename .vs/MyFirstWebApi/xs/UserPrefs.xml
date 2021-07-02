@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{BD0412AE-F99B-45F8-A8B2-681B7BD6B57F}|Default">
+  <MonoDevelop.Ide.ItemProperties.MyFirstWebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstWebApi/Program.cs">
+    <Files>
+      <File FileName="MyFirstWebApi/Startup.cs" Line="18" Column="24" />
+      <File FileName="MyFirstWebApi/Data/BookStoreContext.cs" />
+      <File FileName="MyFirstWebApi/appsettings.json" />
+      <File FileName="MyFirstWebApi/Program.cs" Line="25" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyFirstWebApi" expanded="True" selected="True">
+            <Node name="MyFirstWebApi" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
